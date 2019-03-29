@@ -1,0 +1,58 @@
+<?xml version = "1.0"?>
+<class>
+    <doctor>
+        <name>Constantin Parhon</name>
+        <specialization>Cardiology</specialization>
+        <gradulationYear>1996</gradulationYear>
+        <profilePicture>user.jpg</profilePicture>
+        <medicalUnit>Spitalul Clinic Municipal</medicalUnit>
+    </doctor>
+
+    <doctor>
+        <name>Nicolae Paulescu</name>
+        <specialization>Gastroenterology</specialization>
+        <gradulationYear>2005</gradulationYear>
+        <profilePicture>user.jpg</profilePicture>
+        <medicalUnit>Spitalul Clinic Municipal</medicalUnit>
+
+    </doctor>
+
+    <doctor>
+        <name>Ana Aslan</name>
+        <specialization>Neurology</specialization>
+        <gradulationYear>2008</gradulationYear>
+        <profilePicture>user.jpg</profilePicture>
+        <medicalUnit>New Medica</medicalUnit>
+    </doctor>
+
+    <doctor>
+        <name>Miron Petrescu </name>
+        <specialization>Orthopaedics</specialization>
+        <gradulationYear>2000</gradulationYear>
+        <profilePicture>user.jpg</profilePicture>
+        <medicalUnit>Spitalul Clinic CF</medicalUnit>
+    </doctor>
+    <doctor>
+        <name>William Osler</name>
+        <specialization>Paediatrics</specialization>
+        <gradulationYear>1995</gradulationYear>
+        <profilePicture>user.jpg</profilePicture>
+        <medicalUnit>Spitalul Clinic CF</medicalUnit>
+    </doctor>
+    <doctor>
+        <name>Victor Preda</name>
+        <specialization>Psychiatry</specialization>
+        <gradulationYear>2018</gradulationYear>
+        <profilePicture>user.jpg</profilePicture>
+        <medicalUnit>Spitalul Clinic CF</medicalUnit>
+    </doctor>
+    <doctor>
+        <name>Stefan Gh. Nicolau</name>
+        <specialization>Orthopaedics</specialization>
+        <gradulationYear>1999</gradulationYear>
+        <profilePicture>user.jpg</profilePicture>
+        <medicalUnit>Spitalul Clinic Municipal</medicalUnit>
+    </doctor>
+
+</class>
+
